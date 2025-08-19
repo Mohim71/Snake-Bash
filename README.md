@@ -1,7 +1,7 @@
 # Bash Snake
 
-[![GitHub release](https://img.shields.io/github/v/release/Mohim71/bash-snake)](https://github.com/Mohim71/bash-snake/releases)
-[![License](https://img.shields.io/github/license/Mohim71/bash-snake)](LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/Mohim71/Snake-Bash)](https://github.com/Mohim71/bash-snake/releases)
+[![License](https://img.shields.io/github/license/Mohim71/Snake-Bash)](LICENSE)
 [![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
 A simple **terminal Snake game** written entirely in **Bash**.  
