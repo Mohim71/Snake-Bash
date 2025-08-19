@@ -1,24 +1,38 @@
-
 # Bash Snake
 
-A tiny **terminal Snake game** written in pure Bash. No external libraries.
+[![GitHub release](https://img.shields.io/github/v/release/Mohim71/bash-snake)](https://github.com/Mohim71/bash-snake/releases)
+[![License](https://img.shields.io/github/license/Mohim71/bash-snake)](LICENSE)
+[![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
 
-https://github.com/Mohim71/Snake-Bash
+A simple **terminal Snake game** written entirely in **Bash**.  
+No external libraries required — just your shell!
 
-## Features
-- Arrow/WASD-like controls (`WASD`)
+---
+
+## 🎮 Features
+- WASD controls (`W`, `A`, `S`, `D`) for movement
 - Food spawns randomly, snake grows & score increases
-- Screen wraps around
-- Solid border rendering
-- Simple restart flow
+- Wrap-around edges
+- Collision with yourself ends the game
+- Restart or quit when game over
+- Border rendering for a retro feel
 
-## Controls
-- `W` up, `S` down, `A` left, `D` right
-- `Ctrl+C` to quit
+---
 
-## Run it
+## ⌨️ Controls
+- `W` → Up  
+- `S` → Down  
+- `A` → Left  
+- `D` → Right  
+- `Ctrl+C` → Quit anytime
+
+---
+
+## 🚀 Run it
 
 ### Linux / macOS
 ```bash
+git clone https://github.com/Mohim71/bash-snake.git
+cd bash-snake
 chmod +x snake.sh
 ./snake.sh
